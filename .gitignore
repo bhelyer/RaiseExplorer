@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/RaiseExplorer/x64
+/.vs/RaiseExplorer/v17
+/x64
